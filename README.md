@@ -64,10 +64,6 @@ This project aims to process, analyze, and classify customer product reviews usi
 
 This project offers a comprehensive approach to understanding biases in customer feedback data and predicting sentiments from the feedback. By leveraging AWS SageMaker's suite of tools, we can efficiently analyze, train, deploy, and test models for real-world applications.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
