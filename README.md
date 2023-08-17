@@ -1,4 +1,4 @@
-# Customer Product Reviews Analysis and Sentiment Classification using AWS
+# Customer Product Reviews Analysis and Sentiment Classification using AutoML
 
 ## Introduction
 
